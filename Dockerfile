@@ -1,4 +1,4 @@
 # Dockerfile
 FROM nginx:alpine
-COPY index.html /usr/share/nginx/html/index.html
+COPY true.html /usr/share/nginx/html/true.html
 
