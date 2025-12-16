@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: navy;
+    font-size: 45px;
+    margin-top: 50px; /* Adds space above the heading */
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
